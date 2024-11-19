@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/zbjornerud/Documents/C++ Project/Hash-Table-Res-Test/Hash_Table_Collision_Resolution_Speed_Testing",
+      "program": "/Users/zbjornerud/Documents/C++ Project/Hash-Table-Res-Test/Hash_Table_Collision_Resolution_Speed_Testing/build/Debug/outDebug"
+    }
+  ]
+}
